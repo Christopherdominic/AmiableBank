@@ -28,3 +28,9 @@ Thumbs.db
 dist/
 build/
 coverage/
+
+# AI tool configs/skills
+.claude/
+.agents/
+.cursor/
+.devin/
